@@ -1,5 +1,5 @@
-# Candy Crush_game_Cpp_preactice
-_Hello, Every one, this code is still under construction, I haven't finished, but you still can try
+# Candy Crush_game_Cpp_preactice_
+Hello, Every one, this code is still under construction, I haven't finished, but you still can try
 
 
 W A S D is "up","left","down","right". 
