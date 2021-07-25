@@ -1,13 +1,28 @@
 # Candy Crush_game_Cpp_preactice_
-Hello, Every one, this code is still under construction, I haven't finished, but you still can try
+Hello, Every one, this candy crush by C is created at 2015 when I was fresh man. 
+
+Although if let myself judge this program, there is too many place I can adjust it now, like repetitive code and not concise.
+But, it's a memory for me.Maybe when I have time, I'd come back here to adjust it.
+
+Welcome for fun.
 
 
-W A S D is "up","left","down","right". 
-C is choose, enter is to execute
+- W A S D is "up","left","down","right". 
+- C is choose, enter is to execute
 
-這是一個10x10大小的矩形糖果盤，移動到欲交換的糖果，按C鍵為選取
- 被選取的相鄰兩個糖果座標即可交換糖果 ;
-當三個糖果相連，糖果會消除並由上往下填補
-消除3個 □ 或 ☆ 得五分；消除3個 ○ 或 ◇ 得十分
-	每移動一次糖果步數減少一次，當移動到0次遊戲即結束
-請輸入ENTER以返回前頁
+Starting page:
+
+![Screenshot 2021-07-26 011044](https://user-images.githubusercontent.com/24763190/126916493-ace1f210-77fd-46ad-bf91-6ead4948bf7b.jpg)
+
+
+Game page:
+
+![Gamedisplay](https://user-images.githubusercontent.com/24763190/126916497-e6f03880-77bb-4969-8b22-db577d1209f6.jpg)
+
+
+This is a 10x10 rectangular candy tray. Move to the candy you want to exchange and press C to select
+The selected two adjacent candy coordinates can exchange candy;
+When three candies are connected, the candies will be eliminated and filled from top to bottom
+Eliminate 3 □ or ☆ to get 5 points; eliminate 3 ○ or ◇ to get 10
+Each time you move the candy steps, the number of steps will decrease once, and the game will end when you move to 0 times
+Please enter ENTER to return to the previous page
