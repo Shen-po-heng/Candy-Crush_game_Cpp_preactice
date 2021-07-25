@@ -17,7 +17,7 @@ Starting page:
 
 Game page:
 
-![Gamedisplay](https://user-images.githubusercontent.com/24763190/126916497-e6f03880-77bb-4969-8b22-db577d1209f6.jpg)
+![Gamedisplay](https://user-images.githubusercontent.com/24763190/126916594-1a3975eb-6b02-4b38-9489-f6999e0be8ed.jpg)
 
 
 This is a 10x10 rectangular candy tray. Move to the candy you want to exchange and press C to select
