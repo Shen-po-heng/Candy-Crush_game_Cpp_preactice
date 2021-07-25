@@ -21,8 +21,13 @@ Game page:
 
 
 This is a 10x10 rectangular candy tray. Move to the candy you want to exchange and press C to select
+
 The selected two adjacent candy coordinates can exchange candy;
+
 When three candies are connected, the candies will be eliminated and filled from top to bottom
+
 Eliminate 3 □ or ☆ to get 5 points; eliminate 3 ○ or ◇ to get 10
+
 Each time you move the candy steps, the number of steps will decrease once, and the game will end when you move to 0 times
+
 Please enter ENTER to return to the previous page
